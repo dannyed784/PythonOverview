@@ -1,4 +1,4 @@
-# 03- Basic - Type Casting
+# 01- Basic - Type Casting
 print("Type Casting")
 print(type(int("100")))
 

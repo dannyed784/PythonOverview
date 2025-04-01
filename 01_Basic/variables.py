@@ -1,4 +1,4 @@
-# 04 - Basic - Variables
+# 01 - Basic - Variables
 
 #Dinamic typing
 # you don't need to declare a variable

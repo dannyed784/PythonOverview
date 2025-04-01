@@ -1,4 +1,4 @@
-# 08 - flow-control - nested conditionals
+# 02 - flow-control - nested conditionals
 import os
 os.system("clear")
 

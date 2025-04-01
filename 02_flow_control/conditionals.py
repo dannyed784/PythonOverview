@@ -1,4 +1,4 @@
-#06 flow-control - Conditionals
+#02 flow-control - Conditionals
 # Conditional if
  
 age = 18

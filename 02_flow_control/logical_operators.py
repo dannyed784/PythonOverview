@@ -1,4 +1,4 @@
-# 07 - flow-control - logical operators
+# 02 - flow-control - logical operators
 # multiples conditionals
 import os
 os.system("clear")

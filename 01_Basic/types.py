@@ -1,4 +1,4 @@
-# 02 - basic function type()
+# 01 - basic function type()
 # float, int , complex, str, bool, NoneType, list, tuple, dict, range, set...
 
 print(type("Name"))#str

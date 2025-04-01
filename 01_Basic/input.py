@@ -1,4 +1,4 @@
-# 05 Basic - function input()
+# 01 Basic - function input()
 
 name = input("What is your name? ")
 print(name)
